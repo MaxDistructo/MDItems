@@ -1,0 +1,13 @@
+{
+    "modListVersion": 2,
+    "modList": [{
+        "modid": "MDsItems",
+        "name": "MD's Items",
+        "description": "Just a bunch of random items and ideas I came up with when I was bored. Also is a port of my MCPE mod Super OP Armor and Tools",
+        "version": "Beta 0.1"
+        "mcversion": "1.7.10"
+        "authorList": ["MaxDistructo"],
+        "requiredMods": ["Forge"]
+    }]
+}
+
